@@ -8,7 +8,7 @@ step forward in understanding how machines can learn from data.
 
 ### 📧 Email Spam Detection
 **Algorithm:** Multinomial Naive Bayes  
-**Accuracy:** 99.3% (training), 98.6% (test)
+**Accuracy:** 99.3% (training), 98.6% (testing)
 
 Classifies emails as spam or ham using TF-IDF text vectorization and Naive Bayes classification.
 
