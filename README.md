@@ -20,7 +20,7 @@ Recommends movies based on genre similarity using TF-IDF vectorization and cosin
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit, Joblib
 
-📖 [Detailed guide](https://github.com/GeneralMK7/ML-Projects/blob/master/Movie-Recommendation-System/) available in project folder
+📖 [Detailed guide](https://github.com/GeneralMK7/ML-Projects/blob/master/Movie_Recommendation_System/) available in project folder
 
 > ⚠️ `similarity.joblib` (~720 MB) is excluded from the repo. Run `project-test.ipynb` end-to-end to regenerate it locally.
 
